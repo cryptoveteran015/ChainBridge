@@ -17,7 +17,7 @@ import (
 	"github.com/cryptoveteran015/chainbridge-utils/core"
 	"github.com/cryptoveteran015/chainbridge-utils/crypto/secp256k1"
 	"github.com/cryptoveteran015/chainbridge-utils/keystore"
-	"github.com/Chaicryptoveteran015nSafe/chainbridge-utils/msg"
+	"github.com/cryptoveteran015/chainbridge-utils/msg"
 	"github.com/cryptoveteran015/log15"
 	eth "github.com/ethereum/go-ethereum"
 	"github.com/ethereum/go-ethereum/accounts/abi/bind"
